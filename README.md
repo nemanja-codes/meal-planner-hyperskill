@@ -23,17 +23,22 @@ The greater-than symbol followed by a space (> ) represents the user input. Note
 
 Which meal do you want to add (breakfast, lunch, dinner)?
 > lunch
+
 Input the meal's name:
 > salad
+
 Input the ingredients:
 > lettuce,tomato,onion,cheese,olives
 
 Category: lunch
+
 Name: salad
+
 Ingredients:
 lettuce
 tomato
 onion
 cheese
 olives
+
 The meal has been added!
