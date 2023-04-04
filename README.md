@@ -2,7 +2,8 @@
 
 Stage 1/6: Add meals
 
-1) Objectives
+1) Objectives:
+
 To complete this stage, your program should:
 
 Ask about the meal category with the following message: Which meal do you want to add (breakfast, lunch, dinner)?;
